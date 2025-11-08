@@ -365,7 +365,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 **Contributors:** [@Dr-Venom29](https://github.com/Dr-Venom29) • [@vislavathmahesh](https://github.com/vislavathmahesh)
 
-**Project:** [https://github.com/vislavathmahesh/Eco-Sync](https://github.com/vislavathmahesh/Eco-Sync)
+**Project:** [https://github.com/Dr-Venom29/Eco-Sync](https://github.com/Dr-Venom29/Eco-Sync)
 
 ---
 
@@ -381,6 +381,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 **Made with 💚 for a cleaner future**
 
-⭐ [Star this project](https://github.com/vislavathmahesh/Eco-Sync) • [Report Bug](https://github.com/vislavathmahesh/Eco-Sync/issues)
+⭐ [Star this project](https://github.com/Dr-Venom29/Eco-Sync) • [Report Bug](https://github.com/Dr-Venom29/Eco-Sync/issues)
 
 </div>
