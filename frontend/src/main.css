@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --eco-green: #2E7D32;
+  --eco-light: #A5D6A7;
+}
+
+body{
+  @apply bg-white text-gray-800 font-body;
+}
+
+/* simple utility styles for hero */
+.hero-banner{
+  background: linear-gradient(180deg, rgba(46,125,50,0.06), rgba(165,214,167,0.03));
+}
